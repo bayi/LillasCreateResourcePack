@@ -7,5 +7,10 @@
   "modifier.tconstruct.writable.2": "Írható II",
   "modifier.tconstruct.writable.3": "Írható III",
   "modifier.tconstruct.writable.4": "Írható IV",
-  "modifier.tconstruct.writable.5": "Írható V"
+  "modifier.tconstruct.writable.5": "Írható V",
+
+  "advancements.lillacreate.root.title": "Lilla alkot",
+  "advancements.lillacreate.root.desc": "Üdvözöljük a Lilla's Create modpack-ban!",
+  "advancements.lillacreate.before_night.title": "Készülj fel az éjszakára",
+  "advancements.lillacreate.before_night.desc": "Készíts egy ágyat"
 }
