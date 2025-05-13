@@ -28,5 +28,12 @@
   "advancements.lillacreate.flight.title": "Repülj!",
   "advancements.lillacreate.flight.desc": "Szerezz egy jetpacket",
   "advancements.lillacreate.afraid.title": "Félek ...",
-  "advancements.lillacreate.afraid.desc": "Repülj legalább 500km-t a levegőben"
+  "advancements.lillacreate.afraid.desc": "Repülj legalább 500km-t a levegőben",
+
+  "advancements.lillacreate.flowers.title": "Virágok",
+  "advancements.lillacreate.flowers.desc": "Helyezz le egy virágot a világban",
+  "advancements.lillacreate.more_flowers.title": "Még több virág",
+  "advancements.lillacreate.more_flowers.desc": "Helyezz le 5 különböző féle virágot a világban",
+  "advancements.lillacreate.peace_garden.title": "Nyugi kert",
+  "advancements.lillacreate.peace_garden.desc": "Helyezd le az összes létező virágot a világban"
 }
