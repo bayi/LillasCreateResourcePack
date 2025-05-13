@@ -13,8 +13,12 @@
   "advancements.lillacreate.root.desc": "Üdvözöljük a Lilla's Create modpack-ban!",
   "advancements.lillacreate.before_night.title": "Készülj fel az éjszakára",
   "advancements.lillacreate.before_night.desc": "Készíts egy ágyat",
-  "advancements.lillacreate.sleepy_head.title": "Hétalvó",
-  "advancements.lillacreate.sleepy_head.desc": "Aludj át hét éjszakát egymás után",
+  "advancements.lillacreate.sleep_three_days.title": "Álomszuszék",
+  "advancements.lillacreate.sleep_three_days.desc": "Aludj át három éjszakát egymás után",
+  "advancements.lillacreate.sleep_seven_days.title": "Hétalvó",
+  "advancements.lillacreate.sleep_seven_days.desc": "Aludj át hét éjszakát egymás után",
+  "advancements.lillacreate.sleep_ten_days.title": "Csipkerózsika",
+  "advancements.lillacreate.sleep_ten_days.desc": "Aludj át tíz éjszakát egymás után",
   "advancements.lillacreate.weapon.title": "Úgysem használom",
   "advancements.lillacreate.weapon.desc": "Szerezz egy fegyvert"
 }

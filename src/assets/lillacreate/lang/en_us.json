@@ -7,14 +7,5 @@
   "modifier.tconstruct.writable.2": "Writable II",
   "modifier.tconstruct.writable.3": "Writable III",
   "modifier.tconstruct.writable.4": "Writable IV",
-  "modifier.tconstruct.writable.5": "Writable V",
-
-  "advancements.lillacreate.root.title": "Lilla Creates",
-  "advancements.lillacreate.root.desc": "Welcome to Lilla's Create Pack",
-  "advancements.lillacreate.before_night.title": "Prepare for the Night",
-  "advancements.lillacreate.before_night.desc": "Craft a bed",
-  "advancements.lillacreate.sleepy_head.title": "Sleepy Head",
-  "advancements.lillacreate.sleepy_head.desc": "Sleep through seven nights in a row",
-  "advancements.lillacreate.weapon.title": "I don't even use it",
-  "advancements.lillacreate.weapon.desc": "Get a weapon"
+  "modifier.tconstruct.writable.5": "Writable V"
 }
