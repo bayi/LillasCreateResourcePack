@@ -20,5 +20,13 @@
   "advancements.lillacreate.sleep_ten_days.title": "Csipkerózsika",
   "advancements.lillacreate.sleep_ten_days.desc": "Aludj át tíz éjszakát egymás után",
   "advancements.lillacreate.weapon.title": "Úgysem használom",
-  "advancements.lillacreate.weapon.desc": "Szerezz egy fegyvert"
+  "advancements.lillacreate.weapon.desc": "Szerezz egy fegyvert",
+  "advancements.lillacreate.wrench.title": "Ez kell",
+  "advancements.lillacreate.wrench.desc": "Szerezz egy csavarkulcsot",
+  "advancements.lillacreate.prepare_flight.title": "Készen állsz a repülésre?",
+  "advancements.lillacreate.prepare_flight.desc": "Szerezz egy kitinszárnyat, egy hátizsákot és néhány precíziós mechanizmust.",
+  "advancements.lillacreate.flight.title": "Repülj!",
+  "advancements.lillacreate.flight.desc": "Szerezz egy jetpacket",
+  "advancements.lillacreate.afraid.title": "Félek ...",
+  "advancements.lillacreate.afraid.desc": "Repülj legalább 500km-t a levegőben"
 }
